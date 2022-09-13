@@ -2,8 +2,8 @@
 [Shadow IRC bot](https://github.com/ablakely/shadow) installer for Windows.
 
 This program will automatically downloads and install:
-* [Strawberry Perl](https://strawberryperl.com/)
-* [Git for Windows](https://git-scm.com/download/win)
+* [Strawberry Perl](https://strawberryperl.com/) - Perl interpreter/enviornment for Windows
+* [Git for Windows](https://git-scm.com/download/win) - Git
 * [Shadow](https://github.com/ablakely/shadow)
 
 ## Dependencies
