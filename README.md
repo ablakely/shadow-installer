@@ -1,7 +1,7 @@
 # shadow-installer
 Shadow IRC bot installer for Windows.
 
-This program will automatically downloads and install:
+This program will automatically download and install:
 * [Strawberry Perl](https://strawberryperl.com/) - Perl interpreter/enviornment for Windows
 * [Git for Windows](https://git-scm.com/download/win) - Git
 * [Shadow](https://github.com/ablakely/shadow)
