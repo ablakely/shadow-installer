@@ -1,5 +1,10 @@
 # shadow-installer
-Shadow IRC bot installer for Windows.
+[Shadow IRC bot](https://github.com/ablakely/shadow) installer for Windows.
+
+This program will automatically downloads and install:
+* [Strawberry Perl](https://strawberryperl.com/)
+* [Git for Windows](https://git-scm.com/download/win)
+* [Shadow](https://github.com/ablakely/shadow)
 
 ## Dependencies
 This program will work on XP to 11, it requires [Visual C++ 2015 Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=52685) to be installed on your system.
